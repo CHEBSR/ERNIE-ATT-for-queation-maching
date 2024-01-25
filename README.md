@@ -36,8 +36,12 @@ This project uses the training ensemble set of the well-known LCQMC and BQ datas
 
 Data Acquisition Source Statement:
 ```text
-LCQMC and BQ corpus utilized in our experiments are owned by Harbin Institute of
-Technology (HIT), who acts as its sole distributor. Therefore, the dataset we use are owned by a third party. For guidance on how to request access to these datasets, please refer to the following website: https://www.luge.ai/#/luge/dataDetail?id=14, https://www.luge.ai/#/luge/dataDetail?id=15. Additionally, more detailedinformation can be found in the respective papers that introduced the LCQMC and BQ corpus, as referenced in the citation section of our paper.
+LCQMC and BQ corpus utilized in our experiments are owned by Harbin Institute of Technology (HIT), 
+who acts as its sole distributor. Therefore, the dataset we use are owned by a third party. 
+For guidance on how to request access to these datasets, please refer to the following website
+: https://www.luge.ai/#/luge/dataDetail?id=14, https://www.luge.ai/#/luge/dataDetail?id=15. 
+Additionally, more detailedinformation can be found in the respective papers that introduced
+the LCQMC and BQ corpus, as referenced in the citation section of our paper.
 ```
 The training set data format is 3 columns: text_a \t text_b \t label, Sample data are as follows:
 ```text
